@@ -20,7 +20,7 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#define DISABLE_2D_OPTIMIZATIONS    false
+#define DISABLE_2D_OPTIMIZATIONS    true
 
 static void
 tegra_exa_prepare_optimized_solid_fill(PixmapPtr pixmap, Pixel color)
