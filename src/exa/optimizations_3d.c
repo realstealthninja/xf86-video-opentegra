@@ -20,7 +20,7 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#define DISABLE_3D_OPTIMIZATIONS    false
+#define DISABLE_3D_OPTIMIZATIONS    true
 
 static void
 tegra_exa_optimize_texture_sampler(struct tegra_texture_state *tex)
